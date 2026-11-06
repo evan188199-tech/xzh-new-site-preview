@@ -3,7 +3,7 @@
 Updated: 2026-11-06 Asia/Shanghai
 
 ## State
-**Visitor copy treated as official company site** (XZH Furniture / 旭智汇家居).  
+**Visitor copy treated as official company site** (XZH Furniture / 栩之汇家居).  
 Still hosted on GitHub Pages preview URL until domain cutover.  
 **Production domain xzh-furniture.com remains untouched.**  
 Chatwoot is **not** connected.

@@ -2,7 +2,7 @@
 
 Date: 2026-11-06 (Asia/Shanghai)
 
-Official-tone static site for XZH Furniture (旭智汇家居) B2B custom & project furniture inquiries.  
+Official-tone static site for XZH Furniture (栩之汇家居) B2B custom & project furniture inquiries.  
 **Does not modify** the live production deploy at https://www.xzh-furniture.com/  
 **Does not embed** Chatwoot.
 

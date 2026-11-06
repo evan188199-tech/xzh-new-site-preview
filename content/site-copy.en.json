@@ -2,14 +2,14 @@
   "site_name": "XZH Furniture",
   "tagline": "Custom and project furniture for spaces that must be built, not just styled.",
   "hero_title": "Furniture programs for international projects",
-  "hero_sub": "A new lead-generation site for XZH (Xuzhihui Household Products). Share your room type, drawings if you have them, and destination — our team reviews fit before any quote.",
+  "hero_sub": "XZH Furniture (Foshan Xuzhihui Household Products) builds custom and standard furniture for designers, developers, and buyers who need measurable, manufacturable, deliverable programs. Share your room type, drawings if you have them, and destination — our team reviews fit before any quote.",
   "hero_cta_primary": "Start an inquiry",
   "hero_cta_secondary": "See capabilities",
-  "disclaimer": "Preview site for review only. Not the production website at xzh-furniture.com. No live chat widget. Prices and lead times are confirmed by sales — never automated here.",
+  "disclaimer": "Prices and lead times are confirmed by sales after drawings and destination are clear — never automated on this page.",
   "value_props": [
     {"title": "Custom + standard paths", "body": "Whole-space custom programs and ready-to-specify standard collections, depending on project stage."},
     {"title": "Design & sourcing support", "body": "Design coordination and one-stop sourcing for furniture, lighting, and fittings when the brief needs it."},
-    {"title": "Human quote ownership", "body": "Inquiries are reviewed by people. This preview form does not send production emails or auto-replies."}
+    {"title": "Human quote ownership", "body": "Every inquiry is reviewed by people. Commercial terms are confirmed by sales — not by an automatic reply."}
   ],
   "nav": {"home":"Home","capabilities":"Capabilities","about":"About","faq":"FAQ","contact":"Contact"}
 }

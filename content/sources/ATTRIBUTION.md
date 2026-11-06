@@ -14,7 +14,7 @@
 ## ChatGPT path
 - CDP `127.0.0.1:9226` was up with chatgpt.com tabs (xin researcher profile).
 - This Grok Bot executor has **no browser/desktop subagent tool**, and Shell CDP/Playwright is forbidden by box-desktop skill.
-- Therefore homepage/capability/about/contact copy for this preview was **authored here** under the authorized fallback, citing sources above — **not** claimed as a ChatGPT Deep Research report.
+- Therefore homepage/capability/about/contact copy for this site was **authored here** under the authorized fallback, citing sources above — **not** claimed as a ChatGPT Deep Research report.
 - Prompt saved at `content/drafts/chatgpt-prompt-for-copy.md` for a later ChatGPT pass when browser subagent is available.
 
 ## Not used

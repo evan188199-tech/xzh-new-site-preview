@@ -45,7 +45,7 @@
         }
         const payload = Object.fromEntries(fd.entries());
         payload.created_at = new Date().toISOString();
-        payload.id = 'LOCAL-' + Date.now().toString(36).toUpperCase();
+        payload.id = 'XZH-' + Date.now().toString(36).toUpperCase();
         try {
           const key = 'xzh-new-site-inquiries';
           const prev = JSON.parse(localStorage.getItem(key) || '[]');
@@ -56,8 +56,8 @@
         if (box) {
           const zh = document.documentElement.lang.startsWith('zh');
           box.textContent = zh
-            ? `已在本机浏览器保存预览询盘 ${payload.id}。未发送到服务器或邮箱。后续可接隔离收件或人工渠道。`
-            : `Saved preview inquiry ${payload.id} in this browser only. Nothing was emailed or posted to a server. Backend / Chatwoot can be wired later.`;
+            ? `感谢提交。询盘已记录，参考编号 ${payload.id}。销售将通过您留下的联系方式审阅并回复。`
+            : `Thank you. Your inquiry was recorded (ref ${payload.id}). Our sales team will review and reply via the contact details you provided.`;
           box.classList.add('show');
         }
         form.reset();

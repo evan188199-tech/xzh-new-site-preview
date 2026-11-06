@@ -18,6 +18,7 @@ Local serve (optional): `http://127.0.0.1:8088/`
 - [x] Inquiry form: client-side validation + `localStorage` (worded as real inquiry; no Chatwoot claim)
 - [x] Removed visitor-facing “preview / 非正式官网 / does not modify xzh-furniture.com” language
 - [x] FAQ expanded to 14 bilingual Q&As
+- [x] Dropped fabricated legal-entity lines and “服务国际项目的家具方案入口”; brand = 栩之汇家居 / XZH Furniture only
 - [x] Published to GitHub Pages repo `evan188199-tech/xzh-new-site-preview`
 
 ## Explicitly not done

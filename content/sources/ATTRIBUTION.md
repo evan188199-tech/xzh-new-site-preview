@@ -7,8 +7,10 @@
 2. Multica cloud workspace `xzh furniture` project status (read-only, 2026-11-06):  
    research/isolation cards exist; new site not production-deployed.
 3. Public read-only scrape of https://www.xzh-furniture.com/ homepage text  
-   — company display name “Xuzhihui Household Products / XZH Furniture”, service categories  
-   (Custom / Standard / Design / Sourcing), founded-in-2010 marketing line.  
+   — old homepage showed English display strings and service categories
+   (Custom / Standard / Design / Sourcing). Visitor brand on THIS site is
+   **栩之汇家居 / XZH Furniture** only; do not reuse old transliterations or
+   invent “有限公司 / Co., Ltd.” legal lines on visitor pages.
    **No images, no CMS login, no asset copies.**
 
 ## ChatGPT path

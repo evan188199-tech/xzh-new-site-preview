@@ -30,3 +30,10 @@ Updated: 2026-11-06 Asia/Shanghai
 2. Receiving inbox for real inquiries
 3. Whether/when to attach Chatwoot Website widget
 4. ChatGPT rewrite pass via browser subagent when available
+
+## Public preview (2026-11-06 Asia/Shanghai)
+
+- GitHub repo: https://github.com/evan188199-tech/xzh-new-site-preview
+- GitHub Pages: https://evan188199-tech.github.io/xzh-new-site-preview/
+- here.now: **not installed** — this executor has no `InstallPlugin` tool; parent/user can add via https://cursor.com/grok-bot/link/v1/plugin/add?id=50420288
+- Still no Chatwoot embed; old site untouched
